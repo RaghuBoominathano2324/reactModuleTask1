@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41c9a2fb.css",
+    "main.js": "/static/js/main.42a05235.js",
+    "static/media/PrecisionStrike.jpg": "/static/media/PrecisionStrike.a94da8ad2eaa3490cd29.jpg",
+    "static/media/ram.jpg": "/static/media/ram.5fc3cc5a6f1bf3b4c5e4.jpg",
+    "index.html": "/index.html",
+    "main.41c9a2fb.css.map": "/static/css/main.41c9a2fb.css.map",
+    "main.42a05235.js.map": "/static/js/main.42a05235.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41c9a2fb.css",
+    "static/js/main.42a05235.js"
+  ]
+}
